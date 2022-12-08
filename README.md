@@ -3,7 +3,7 @@ Built using free News API
 
 ### Previews
 
-![Preview homepage](./assets/preview.png.png)
+![Preview homepage](assets/preview.png)
 
 
 ## Author
